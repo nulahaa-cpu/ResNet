@@ -1130,12 +1130,7 @@
      "data": {
       "text/plain": [
        "Dl Completed...: 0 url [00:00, ? url/s]"
-      ],
-      "application/vnd.jupyter.widget-view+json": {
-       "version_major": 2,
-       "version_minor": 0,
-       "model_id": "cff23413b23f475599ea8354d0d998ee"
-      }
+      ]
      },
      "metadata": {}
     },
@@ -1144,12 +1139,7 @@
      "data": {
       "text/plain": [
        "Dl Size...: 0 MiB [00:00, ? MiB/s]"
-      ],
-      "application/vnd.jupyter.widget-view+json": {
-       "version_major": 2,
-       "version_minor": 0,
-       "model_id": "e969a865e1184fbc8951aeb5ce0813e9"
-      }
+      ]
      },
      "metadata": {}
     },
@@ -1158,12 +1148,7 @@
      "data": {
       "text/plain": [
        "Extraction completed...: 0 file [00:00, ? file/s]"
-      ],
-      "application/vnd.jupyter.widget-view+json": {
-       "version_major": 2,
-       "version_minor": 0,
-       "model_id": "78a20b0122da43b0ab1e6788131a20ff"
-      }
+      ]
      },
      "metadata": {}
     },
@@ -1172,12 +1157,7 @@
      "data": {
       "text/plain": [
        "Generating splits...:   0%|          | 0/2 [00:00<?, ? splits/s]"
-      ],
-      "application/vnd.jupyter.widget-view+json": {
-       "version_major": 2,
-       "version_minor": 0,
-       "model_id": "56b7b589a800425f9e244ea34cfb3de5"
-      }
+      ]
      },
      "metadata": {}
     },
@@ -1186,12 +1166,7 @@
      "data": {
       "text/plain": [
        "Generating train examples...: 0 examples [00:00, ? examples/s]"
-      ],
-      "application/vnd.jupyter.widget-view+json": {
-       "version_major": 2,
-       "version_minor": 0,
-       "model_id": "cb6c934995fc4aa3a0eabfce934a3561"
-      }
+      ]
      },
      "metadata": {}
     },
@@ -1200,12 +1175,7 @@
      "data": {
       "text/plain": [
        "Shuffling /root/tensorflow_datasets/oxford_iiit_pet/incomplete.3Z1JLM_4.0.0/oxford_iiit_pet-train.tfrecord-[0-…"
-      ],
-      "application/vnd.jupyter.widget-view+json": {
-       "version_major": 2,
-       "version_minor": 0,
-       "model_id": "12a625037469444caafdd3ea77806848"
-      }
+      ]
      },
      "metadata": {}
     },
@@ -1214,12 +1184,7 @@
      "data": {
       "text/plain": [
        "Generating test examples...: 0 examples [00:00, ? examples/s]"
-      ],
-      "application/vnd.jupyter.widget-view+json": {
-       "version_major": 2,
-       "version_minor": 0,
-       "model_id": "4f7269494c5148b9aae1955dad5b085a"
-      }
+      ]
      },
      "metadata": {}
     },
@@ -1228,12 +1193,7 @@
      "data": {
       "text/plain": [
        "Shuffling /root/tensorflow_datasets/oxford_iiit_pet/incomplete.3Z1JLM_4.0.0/oxford_iiit_pet-test.tfrecord-[0-9…"
-      ],
-      "application/vnd.jupyter.widget-view+json": {
-       "version_major": 2,
-       "version_minor": 0,
-       "model_id": "39d7f52c1723422a976292781b6e0553"
-      }
+      ]
      },
      "metadata": {}
     },
